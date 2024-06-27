@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Dev's Project**
 
-- 🌱 I’m currently learning **web development skills with a solid foundation in Python and Java.**
+- 🌱 I’m currently learning **Web development skills with a solid foundation in Python and Java.**
 
 - 🤝 I’m looking for help with **anything this world desires from me**
 
