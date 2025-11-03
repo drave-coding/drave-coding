@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **anything this world desires from me**
 
-- 👨‍💻 All of my projects are available at [https://basic-portfolio-dc.netlify.app](https://basic-portfolio-dc.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://show-case-dc-phi.vercel.app)
 
 - 💬 Ask me about **Web Devs and Problem Solving**
 
 - 📫 How to reach me **abhishek2022.work@gmail.com**
 
-- 📄 Get to know me Professionally [https://www.linkedin.com/in/adas2003/](https://www.linkedin.com/in/adas2003/)
+- 📄 Get to know me Professionally [LinkedIn](https://www.linkedin.com/in/adas2003/)
 
 - ⚡ Fun fact **I think I can draw**
   
